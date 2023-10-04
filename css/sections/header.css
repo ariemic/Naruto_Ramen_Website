@@ -1,0 +1,30 @@
+.header-navbar{
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--poppins);
+
+}
+
+.header-logo{
+    display: flex;
+    position: relative;
+    padding: 20px;
+}
+
+.header-logo h4{
+    font-size:25px;
+    font-weight: 500; 
+}
+
+.header-menu{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 30px;
+}
+
+.header-menu a{
+    font-size: 20px;
+}
