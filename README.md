@@ -1,2 +1,6 @@
 # NarutoRamen
-This repository contains code for very simple website. Ideally it is website for restaurant Naruto Ramen.
+Very simple website that merge two ideas. 
+<ol>
+  <li>Ramen restaurant</li>
+  <li>Naruto series</li>
+</ol>
